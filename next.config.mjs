@@ -1,1 +1,1 @@
-/** @type {import('next').NextConfig} */`nconst nextConfig = {`n  eslint: { ignoreDuringBuilds: true },`n  typescript: { ignoreBuildErrors: true },`n  images: { unoptimized: true },`n}`n`nexport default nextConfig
+export default {} 
